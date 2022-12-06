@@ -1,4 +1,7 @@
 # Mini-Project--Application-of-NN
+```
+My project can helps you to analyze and makes you to understand in better manner.
+this type of application may helps in various NN models.The main usage of this model you apply to any type of Neural network model 
 
 
 
