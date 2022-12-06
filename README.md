@@ -1,9 +1,8 @@
 # Mini-Project--Application-of-NN
-``
 My project can helps you to analyze and makes you to understand in better manner.
-this type of application may helps in various NN models.The main usage of this model you apply to any type of Neural network model 
+this type of application may helps in various NN models.The main usage of this model is that you can apply to any type of Neural network model.
+Agenda is to implement the Simple NN model
 
-``
 
 (Expected the following details in the report )
 ## Project Title: Building own Neural Network Model
